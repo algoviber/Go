@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "github.com/username/my-go-app/internal/version"
+    "github.com/algoviber/Go/internal/version"
 )
 
 func main() {
